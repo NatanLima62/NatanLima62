@@ -43,35 +43,29 @@
 <h3>Minhas Skills :rocket:</h3>
 
   **Aplicações e Dados:**
-  <div>
+
   ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![NET](  https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  </div>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
 
 **DevOps:**
 
-  <div>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
-  </div>
   
   
 
 **Ferramentas:**
 
-  <div>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
-  </div>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
     
