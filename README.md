@@ -6,9 +6,7 @@
   Me chamo Natael de Lima, tenho 23 anos. estou cursando Ciência da computação no IFCE de Maracanaú</strong>.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong> no Núcleo de Desenvolvimento de Software do IFCE.
-
-  Também atuo e presto serviço freelance como Desenvolvedor Full-Stack na NeoCode Solutions, uma software house.
+  Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong> principalmente com <strong>C#</strong>, <strong>React</strong> e <strong>Angular</strong>.
 </p>
 
 
