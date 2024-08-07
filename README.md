@@ -3,7 +3,7 @@
 <h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Natanael de Lima, tenho 23 anos</strong>.
+  Me chamo Natanael de Lima</strong>.
   </br>
   </br>
   Atualmente, atuo como <strong>Desenvolvedor Full-Stack</strong> principalmente com <strong>C#</strong>, <strong>React</strong> e <strong>Angular</strong>.
